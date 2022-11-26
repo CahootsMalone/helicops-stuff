@@ -427,7 +427,7 @@ EF |
 F9 F7 | F9 = 249/-7; F7 = 247/-9
 20 53 68 | " Sh"
 DF | 223/-33
-69 6E 44 0D 0A "inD\r\n" | The "D" seems out of place, might be part of compression info; D = 68/68
+69 6E 44 0D 0A |  "inD\r\n" (The "D" seems out of place, might be part of compression info; D = 68/68)
 EE F1 | 
 43 6F | "Co" 
 FF | 
